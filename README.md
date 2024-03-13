@@ -1,5 +1,5 @@
 # OtiteGit
-### Hello World 👋 It's [Otite!](https://sakigo9.github.io/MyPortfolio/)
+### Hello World 👋 It's [Otite!](https://Otite-Git.github.io/MyPortfolio/)
 
 <br/>
 
@@ -23,7 +23,7 @@
 
 <br />
 
-Hi,I'm Otite🙌, a Python Developer, Business Consultant with expereince in AWS EC2, Kineses and an overallCloud Enthusiast. Apart from that I love getting involved in Creative Programming and Problem Solving.❤✌
+Hi,I'm Otite🙌, a Python Developer, Business Consultant with expereince in AWS EC2, Kineses and an overall Cloud Enthusiast. Apart from that I love getting involved in Creative Programming and Problem Solving.❤✌
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
