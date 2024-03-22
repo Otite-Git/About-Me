@@ -1,4 +1,4 @@
-# OtiteGit
+# About Me
 ### Hello World 👋 It's [Otite!](https://Otite-Git.github.io/MyPortfolio/)
 
 <br/>
