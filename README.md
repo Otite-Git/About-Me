@@ -23,7 +23,7 @@
 
 <br />
 
-Hi,I'm Otite🙌, a Python Developer, Business Consultant with expereince in AWS EC2, Kineses and an overall Cloud Enthusiast. Apart from that I love getting involved in Creative Programming and Problem Solving.❤✌
+Hi, I'm Otite🙌, a Python Developer, and Business Consultant with experience in AWS EC2, Kineses and an overall Cloud Enthusiast. Apart from that I love getting involved in Creative Programming and Problem Solving.❤✌
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
@@ -33,7 +33,7 @@ Hi,I'm Otite🙌, a Python Developer, Business Consultant with expereince in AWS
 
 - 🔭 I’m currently a Business Consultant at the 4OC.
 - 💼 I'm also an entrepreneur and developer of www.merneithcollection.com 
-- 🌱 I’m currently learning more about AWS, Kubernetesa and Docker.
+- 🌱 I’m currently learning more about AWS, Kubernetes and Docker.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: I'm on LinkedIn Just enter my Otite Egbeniyoko 😉 
