@@ -23,7 +23,7 @@
 
 <br />
 
-Hi, I'm Otite🙌, a Python Developer, and Business Consultant with experience in AWS EC2, Kineses and an overall Cloud Enthusiast. Apart from that I love getting involved in Creative Programming and Problem Solving.❤✌
+Hi, I'm Otite🙌, a Python Developer, Business Consultant and Cloud Engineer with experience in AWS EC2, Kineses, RDS, general AWS services and an overall Cloud Enthusiast. Apart from that I love getting involved in Creative innovations and Problem Solving.❤✌
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
@@ -37,8 +37,8 @@ Hi, I'm Otite🙌, a Python Developer, and Business Consultant with experience i
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: I'm on LinkedIn Just enter my Otite Egbeniyoko 😉 
-- ⚡ My recent Cloud Project are loading 🔋
-- 📝[Portfolio](https://github.com/Otite-Git/FinalCapstone-Hyperion-Dev-Certification-Projects-.git)
+- ⚡ [AWS Cloud  Project](https://github.com/Otite-Git/Host-a-WordPress-Website-on-AWS.git)
+- 📝 [Python Portfolio](https://github.com/Otite-Git/FinalCapstone-Hyperion-Dev-Certification-Projects-.git)
 
 
 
