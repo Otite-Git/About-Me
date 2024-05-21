@@ -33,7 +33,7 @@ Hi, I'm Otite🙌, a Python Developer, Business Consultant and Cloud Engineer wi
 
 - 🔭 I’m currently a Business Consultant at the 4OC.
 - 💼 I'm also an entrepreneur and developer of www.merneithcollection.com 
-- 🌱 I’m currently learning more about AWS, Kubernetes and Docker.
+- 🌱 I’m currently learning more about, Kubernetes, Terraform and Docker.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: I'm on LinkedIn Just enter my Otite Egbeniyoko 😉 
