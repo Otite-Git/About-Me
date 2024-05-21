@@ -23,7 +23,7 @@
 
 <br />
 
-Hi, I'm Otite🙌, a Python Developer, Business Consultant and Cloud Engineer with experience in AWS EC2, Kineses, RDS, general AWS services and an overall Cloud Enthusiast. Apart from that I love getting involved in Creative innovations and Problem Solving.❤✌
+Hi, I'm Otite🙌, a Python Developer, Business Consultant and Cloud Engineer with experience in AWS EC2, Kineses, RDS, general AWS services and an overall Cloud Enthusiast. Apart from that I love getting involved in Creative innovations and problem solving.❤✌
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
